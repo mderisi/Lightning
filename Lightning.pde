@@ -98,7 +98,6 @@ void draw(){
 
 void mousePressed()
 {
- System.out.print("pressed");
  launchstate = true;
  oldtime = millis();
 
